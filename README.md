@@ -1,3 +1,5 @@
+# Ozan Cikriklioglu
+
 # This application is a prototype being developed for a website.
 
 ## This version is usable. It stores your flashcards and decks locally on your computer.
@@ -35,3 +37,6 @@ easy switching between decks on the left side / the deck's flascars are displaye
 ## answer screen:
 <img width="770" height="651" alt="image" src="https://github.com/user-attachments/assets/60d4e628-f675-475c-8b91-0bfb062755f6" />
 
+
+## Author
+Ozan Cikriklioglu
